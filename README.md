@@ -4,7 +4,7 @@ As a software engineer, I am always seeking opportunities to deepen my understan
 
 The primary goal of this software is to explore Rust’s unique features, such as its strong type system, memory safety guarantees, and ownership model. By building a practical application, I aimed to gain hands-on experience with Rust’s syntax, user input handling, file I/O, and project structure.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/Iigx73CUJ54)
 
 # Development Environment
 
